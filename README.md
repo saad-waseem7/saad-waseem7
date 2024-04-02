@@ -6,6 +6,7 @@ Dedicated Student, driven to learn and grow.
 
 I'm Saad, a developer with a year's experience, currently pursuing a degree in data science and I'm enthusiastic about programming and data science. I thrive on problem-solving and continuous learning in the tech field, keen to collaborate and make contributions.
 
+* 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [saad4735322@gmail.com](mailto:saad4735322@gmail.com)
 * 🧠  I'm learning Object-Oriented Programming (C/C++)
 * ⚡  Passionate about movies and coding 💻🎥
