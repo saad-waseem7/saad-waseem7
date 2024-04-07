@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Saad
 Devoted Student.
 --------------------------------------------
 
-A developer with one year of experience, currently studying data science. Enthusiastic about programming and data science, I enjoy problem-solving and continuous learning in tech. Eager to collaborate and contribute.
+A developer with a year's experience, currently pursuing a Bachelor's degree in data science. Enthusiastic about programming and data science, I enjoy problem-solving and continuous learning in tech. Eager to collaborate and contribute.
 
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [saad4735322@gmail.com](mailto:saad4735322@gmail.com)
