@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Saad
 ==============================
 
-Devoted Student.
+Aspiring Data Scientist.
 --------------------------------------------
 
 A developer with a year's experience, currently pursuing a Bachelor's degree in data science. Enthusiastic about programming and data science, I enjoy problem-solving and continuous learning in tech. Eager to collaborate and contribute.
