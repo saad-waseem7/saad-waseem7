@@ -7,8 +7,8 @@ Aspiring Data Scientist.
 A developer with a year's experience, currently pursuing a Bachelor's degree in data science. Enthusiastic about programming and data science, I enjoy problem-solving and continuous learning in tech. Eager to collaborate and contribute.
 
 * 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [saad4735322@gmail.com](mailto:saad4735322@gmail.com)
-* 🧠  I'm learning Object-Oriented Programming (C/C++)
+* ✉️  You can contact me at [saad.hunt7@gmail.com](mailto:saad.hunt7@gmail.com)
+* 🧠  I'm currently learning Data Structures and Algorithms (C/C++)
 * ⚡  Passionate about movies and coding 💻🎥
 
 ### Skills
