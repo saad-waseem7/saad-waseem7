@@ -1,24 +1,30 @@
 Hi 👋 My name is Muhammad Saad
 ==============================
 
-Aspiring Data Scientist.
-------------------------
+Aspiring Data Scientist focused on building strong foundations in machine learning, data analysis, and software development.
+I enjoy turning raw data into meaningful insights and improving my skills through consistent hands-on practice and projects.
 
-I'm a dedicated data science student with a strong academic foundation. I'm passionate about using data to solve problems and create innovative solutions. I'm always eager to learn new things and stay up-to-date with the latest trends in data science and technology
+* 🌍 Based in Lahore, Pakistan  
+* ✉️ Contact: saadwaseem2620@gmail.com  
+* 🧠 Currently learning AI/ML, Data Science, and modern programming tools  
+* ⚡ Passionate about movies, coding, and problem solving  
 
-* 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [saadwaseem2620@gmail.com](mailto:saadwaseem2620@gmail.com)
-* 🧠  I'm learning AI/ML
-* ⚡  Passionate about movies and coding.
+## 🚧 Projects
 
-### Skills
+- Built beginner machine learning models using Scikit-learn (classification & regression tasks)
+- Performed data analysis on structured datasets using Pandas and NumPy
+- Practiced feature engineering and model evaluation on small real-world datasets
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,fastapi,mysql,postgres,sklearn,tensorflow,pytorch,git,github,linux,bash,vscode,visualstudio" />
+## 🧰 Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,fastapi,sklearn,tensorflow,pytorch,git,github,linux,ubuntu,bash,powershell,vscode,visualstudio,mysql,postgres,cmake,markdown" height="80"/>
 </p>
 
+## 🌐 Socials
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/saad-waseem7" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a><a href="https://www.linkedin.com/in/muhammad-saad-786xyz/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a><a href="http://www.medium.com/@saad.xyz" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></picture></a></p>
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-saad-786xyz/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
+  </a>
+</p>
