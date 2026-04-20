@@ -18,7 +18,7 @@ I enjoy turning raw data into meaningful insights and improving my skills throug
 ## 🧰 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,fastapi,sklearn,tensorflow,pytorch,git,github,linux,ubuntu,bash,powershell,vscode,visualstudio,mysql,postgres,cmake,markdown" height="80"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,fastapi,sklearn,tensorflow,pytorch,git,github,linux,ubuntu,bash,powershell,vscode,visualstudio,mysql,postgres,cmake,markdown" height="85"/>
 </p>
 
 ## 🌐 Socials
